@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://example.org/"
+baseurl = "https://ju-yang-ning-huo.github.io/"
 languageCode = "en-us"
 title = "Hugo Bootstrap v4 Blog"
 theme = "hugo-theme-bootstrap4-blog"
@@ -19,15 +19,15 @@ summaryLength = 50
 
 [[menu.sidebar]]
   name = "Link 1"
-  url = "https://example.com"
+  url = "https://ju-yang-ning-huo.com"
 
 [[menu.sidebar]]
   name = "Link 2"
-  url = "https://example.org"
+  url = "https://ju-yang-ning-huo.org"
 
 #[[menu.navbar]]
 #  name = "Link 1"
-#  url = "https://example.org"
+#  url = "https://ju-yang-ning-huo.org"
 
 
 # Theme variables
@@ -37,7 +37,7 @@ summaryLength = 50
   author = "Your Name"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "A simple Hugo theme based on the Bootstrap v4 blog ju-yang-ning-huo."
 
   # Show header (default: true)
   #header_visible = true
@@ -57,7 +57,7 @@ summaryLength = 50
   # Optionally display a message about the site's use of cookies, which may be
   # required for your site in the European Union. Set the parameter below to a
   # page where the user can get more information about cookies, either on your
-  # site or externally, for example:
+  # site or externally, for ju-yang-ning-huo:
   #cookie_consent_info_url = "/cookie-information/"
   #cookie_consent_info_url = "http://cookiesandyou.com"
 
@@ -73,14 +73,14 @@ summaryLength = 50
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+    about = "A simple Hugo theme based on the [Bootstrap v4 blog ju-yang-ning-huo](http://v4-alpha.getbootstrap.com/ju-yang-ning-huos/blog/)."
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
 
   [params.social]
     # Optional, used for attribution in Twitter cards (ideally not a person
-    # for example: nytimes, flickr, NatGeo, etc).
+    # for ju-yang-ning-huo: nytimes, flickr, NatGeo, etc).
     # See: https://dev.twitter.com/cards/types/summary-large-image
     twitter = "username"
 
